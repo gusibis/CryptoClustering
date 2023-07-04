@@ -4,10 +4,9 @@
 <div>Jupiter notebook location is "./Starter_Code/Crypto_Clustering.ipynb"</div>
 <br>
 <div>CSV file location is "./Starter_Code/Resources/crypto_market_data.csv"</div>
-
+<br>
 <div>   
-    <p>In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.</p>
-    <h3>Before You Begin</h3>
+    <h3>Instructions</h3>
     <ol>
         <li>
             <p>Create a new repository for this project called <code>CryptoClustering</code>. <strong>Do not add this homework to an existing repository</strong>.</p>
