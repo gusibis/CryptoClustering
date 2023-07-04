@@ -115,7 +115,6 @@
             </ul>
         </li>
     </ul>
- 
     <h3>Requirements</h3>
     <h4>Find the Best Value for k by Using the Original Data (15 points)</h4>
     <p>To receive all points, you must:</p>
